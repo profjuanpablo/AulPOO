@@ -1,0 +1,15 @@
+D:\notebook\Impacta\TurmaNoite\POO\ClasseEObjeto-Exercicio\obj\Debug\net6.0\ClasseEObjeto-Exercicio.csproj.AssemblyReference.cache
+D:\notebook\Impacta\TurmaNoite\POO\ClasseEObjeto-Exercicio\obj\Debug\net6.0\ClasseEObjeto-Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+D:\notebook\Impacta\TurmaNoite\POO\ClasseEObjeto-Exercicio\obj\Debug\net6.0\ClasseEObjeto-Exercicio.AssemblyInfoInputs.cache
+D:\notebook\Impacta\TurmaNoite\POO\ClasseEObjeto-Exercicio\obj\Debug\net6.0\ClasseEObjeto-Exercicio.AssemblyInfo.cs
+D:\notebook\Impacta\TurmaNoite\POO\ClasseEObjeto-Exercicio\obj\Debug\net6.0\ClasseEObjeto-Exercicio.csproj.CoreCompileInputs.cache
+D:\notebook\Impacta\TurmaNoite\POO\ClasseEObjeto-Exercicio\bin\Debug\net6.0\ClasseEObjeto-Exercicio.exe
+D:\notebook\Impacta\TurmaNoite\POO\ClasseEObjeto-Exercicio\bin\Debug\net6.0\ClasseEObjeto-Exercicio.deps.json
+D:\notebook\Impacta\TurmaNoite\POO\ClasseEObjeto-Exercicio\bin\Debug\net6.0\ClasseEObjeto-Exercicio.runtimeconfig.json
+D:\notebook\Impacta\TurmaNoite\POO\ClasseEObjeto-Exercicio\bin\Debug\net6.0\ClasseEObjeto-Exercicio.dll
+D:\notebook\Impacta\TurmaNoite\POO\ClasseEObjeto-Exercicio\bin\Debug\net6.0\ClasseEObjeto-Exercicio.pdb
+D:\notebook\Impacta\TurmaNoite\POO\ClasseEObjeto-Exercicio\obj\Debug\net6.0\ClasseEObjeto-Exercicio.dll
+D:\notebook\Impacta\TurmaNoite\POO\ClasseEObjeto-Exercicio\obj\Debug\net6.0\refint\ClasseEObjeto-Exercicio.dll
+D:\notebook\Impacta\TurmaNoite\POO\ClasseEObjeto-Exercicio\obj\Debug\net6.0\ClasseEObjeto-Exercicio.pdb
+D:\notebook\Impacta\TurmaNoite\POO\ClasseEObjeto-Exercicio\obj\Debug\net6.0\ClasseEObjeto-Exercicio.genruntimeconfig.cache
+D:\notebook\Impacta\TurmaNoite\POO\ClasseEObjeto-Exercicio\obj\Debug\net6.0\ref\ClasseEObjeto-Exercicio.dll
